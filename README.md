@@ -14,9 +14,9 @@ initLimit=10
 # The number of ticks that can pass between 
 # sending a request and getting an acknowledgement
 syncLimit=5
-# the directory where the snapshot is stored.
+## the directory where the snapshot is stored.
 dataDir=F:\\zookeeper\\data
 dataDirLog=F:\\zookeeper\\log
-# the port at which the clients will connect
+## the port at which the clients will connect
 clientPort=2181
 
